@@ -1,3 +1,7 @@
 # calculator
-A calculator website build using html,css and javascript
-[Live Demo]() :point_left:
+A calculator website build using html,css and javascript.
+
+
+
+
+[Live Demo](https://adarshnub.github.io/calculator/) :point_left:
