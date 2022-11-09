@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&family=Roboto:wght@400;700&display=swap');
-
+html {
+    background: url(https://media.giphy.com/media/l378khQxt68syiWJy/giphy-downsized-large.gif) no-repeat center center fixed;
+    background-size:cover;
+}
 *, body {
 	padding: 0;
 	margin: 0;
@@ -49,13 +52,13 @@ output#user-input{
     font-size:1.3rem;
     font-weight:400;
     text-align:right;
-    color: #60A07F;
+    color: #eef7f2;
 }
 output#result{
     font-size:1.6rem;
     font-weight:600;
     text-align:right;
-    color: var(--white);
+    color:#eef7f2;
 }
 .calculator .all-buttons{
     display:grid;
